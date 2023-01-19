@@ -12,4 +12,6 @@ Tela de Login do League of Legends construída com HTML, CSS e JavaScript.
 * CSS
 * JavaScript
 
-<img style="width: 100%; " src="https://github.com/lucasfrag/League-of-Legends-Login-Clone/blob/master/images/wallpaper.jpg" >
+## Captura de tela
+
+<img style="width: 100%; " src="https://github.com/lucasfrag/League-of-Legends-Login-Clone/blob/master/screenshot.png" >
